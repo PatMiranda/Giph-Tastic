@@ -1,0 +1,23 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+h1 {
+    color: whitesmoke;
+    font-size: 40px;
+}
+#button-add {
+    color: whitesmoke;
+    font-size: 30px;
+
+}
+.Videos {
+    display: flex;
+    flex-flow: row wrap;
+}
+.rating {
+    color: whitesmoke;
+}
